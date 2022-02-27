@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>XXIX. directions and considerations, stirring us up to watchfulnesse, where every Christian may get armour in these dangerous times, to fight against Antichrist, and his adherents. With Thirteen principles of religion, by M. Perkins: by way of question and answer. Shewing, what necessitie there is for all that are for reformation, and are desirous to venture life fortune and estate, for religion, King, Parliament, laws and liberties; against those who (if they prevail) will blot out religion, and utterly destroy us all. Published by Richard Marsal minister of Gods word. Set forth by authority, and printed with order.</title>
+            <author>Marsal, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89555</idno>
+            <idno type="STC">Wing M724</idno>
+            <idno type="STC">Thomason E1190_4</idno>
+            <idno type="STC">ESTC R208317</idno>
+            <idno type="EEBO-CITATION">99867278</idno>
+            <idno type="PROQUEST">99867278</idno>
+            <idno type="VID">119583</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119583)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1190[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>XXIX. directions and considerations, stirring us up to watchfulnesse, where every Christian may get armour in these dangerous times, to fight against Antichrist, and his adherents. With Thirteen principles of religion, by M. Perkins: by way of question and answer. Shewing, what necessitie there is for all that are for reformation, and are desirous to venture life fortune and estate, for religion, King, Parliament, laws and liberties; against those who (if they prevail) will blot out religion, and utterly destroy us all. Published by Richard Marsal minister of Gods word. Set forth by authority, and printed with order.</title>
+                  <author>Marsal, Richard.</author>
+                  <author>Perkins, William, 1558-1602. Thirteen principles of religion.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 23 1646"; the 7 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119583:1" rendition="simple:additions"/>
+            <p>XXIX.</p>
+            <p>DIRECTIONS AND Considerations, ſtirring up to Watchfulneſſe, where every Chriſtian may get Armour in theſe dangerous times, to fight againſt Antichriſt, and his Adherents.</p>
+            <p>With <hi>Thirteen Principles of Religion;</hi>
+            </p>
+            <p>By M. Perkins: By way of Queſtion and Anſwer.</p>
+            <p>
+               <hi>Shewing,</hi> What neceſſitie there is for all that are for Reformation, and are deſirous to venture life fortune and eſtate, for Religion, King, Par<g ref="char:EOLhyphen"/>liament, laws and liberties; againſt thoſe who (if they prevail) will blot out Religion, and utterly deſtroy <hi>us all.</hi>
+            </p>
+            <p>Publiſhed by Richard Marsal Miniſter of Gods Word.</p>
+            <p>Set forth by Authority, and printed with Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Bernard Alſop.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:119583:2" rendition="simple:additions"/>
+            <pb facs="tcp:119583:2"/>
+            <head>Thirteen Principles of Religion, taught by Mr. William Perkins, Preacher of Gods Word in Cambridge; (deceaſed) and ſent to his Sonne in Law <hi>Iohn Hinde,</hi> reſident in London in the Burrough of Southwarke.</head>
+            <p>
+               <label>Q.</label> WHat is your Happineſſe;</p>
+            <p>
+               <label>Anſw.</label> To <hi>know God and my ſelfe.</hi>
+            </p>
+            <p>
+               <label>Queſt</label> What is God;</p>
+            <p>
+               <label>Anſw.</label> 
+               <hi>A ſpirituall ſubſtance, every way in<g ref="char:EOLhyphen"/>finite; goodneſſe it ſelfe, creatour and governour of all things: Diſtinguiſhed into the Father, the Sonne, and the Holy Ghoſt.</hi>
+            </p>
+            <p>
+               <label>Q.</label> What art thou by Creation;</p>
+            <p>
+               <label>Anſw.</label> A <hi>creature indued with the image of God. which ſtandeth in righteouſneſſe and true helineſſe.</hi>
+            </p>
+            <p>
+               <label>Q.</label> What art thou by the fall of Adam;</p>
+            <p>
+               <label>Anſw.</label> 
+               <hi>A ſinner, and by my ſins</hi> I <hi>have de<g ref="char:EOLhyphen"/>ſerved everlaſting death which is the deſtru<g ref="char:EOLhyphen"/>ction both of body and ſoule for ever, in the pit of Hell.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:119583:3"/>
+               <label>Q.</label> What are thy principall ſins?</p>
+            <p>
+               <label>An.</label> 
+               <hi>Guiltineſſe in</hi> Adams <hi>firſt offence and the diſpoſition of my heart to every evill, with the innumerable fruits thereof in thought, ſpeech and action</hi>
+            </p>
+            <p>
+               <label>Q.</label> What is the remedy of theſe ſins?</p>
+            <p>
+               <label>A.</label> Jeſus Chriſt <hi>the Son of God made man, who was cruecfied upon the croſſe to redeeme all mankind that was loſt in</hi> Adams <hi>diſebedience in eating the forbidden fruit.</hi>
+            </p>
+            <p>
+               <label>Q.</label> Sinner, how doſt thou know that Chriſt was crucified for thee?</p>
+            <p>
+               <label>A.</label> 
+               <hi>By faith I believe that Chriſt was cruci<g ref="char:EOLhyphen"/>fied for me and all believers, and thahe was made unto me wiſdome, juſtification, ſanctificati<g ref="char:EOLhyphen"/>on, and redemption.</hi>
+            </p>
+            <p>
+               <label>Q.</label> When doth this faith begin to be bred in thy heart?</p>
+            <p>A. <hi>When I begin to be ſetled in the know<g ref="char:EOLhyphen"/>ledge of the love and mercies of God in Chriſt and to hunger and thirſt after Chriſt and his righteouſneſſe, above all the things of this world.</hi>
+            </p>
+            <p>
+               <label>Q.</label> What is the meanes to begin and confirm this faith?</p>
+            <p>
+               <label>A.</label> 
+               <hi>The preaching of the word of God, reading reverent receiving the ſacraments and prayer.</hi>
+            </p>
+            <p>
+               <label>Q.</label> What is a Sacrament?</p>
+            <p>
+               <pb n="3" facs="tcp:119583:3"/>
+               <label>A.</label> 
+               <hi>A ſigne to repreſent Chriſt till he came, a ſeal to confirm unto me his death and reſurrec<g ref="char:EOLhyphen"/>tion, an inſtrument to exhibite Chriſt with all his benefits to all believers.</hi>
+            </p>
+            <p>
+               <label>qu.</label> What is Prayer?</p>
+            <p>
+               <label>A.</label> 
+               <hi>A ſpeech to God made in faith wherein I ask in the Name of Chriſt, things wanting, and give thanks for bleſſings received.</hi>
+            </p>
+            <p>
+               <label>qu.</label> What oweſt thou to God for thy redem<g ref="char:EOLhyphen"/>ption?</p>
+            <p>
+               <label>A.</label> 
+               <hi>All thankfulneſſe.</hi>
+            </p>
+            <p>
+               <label>qu.</label> Wherein ſtandeth thankfulneſſe?</p>
+            <p>
+               <label>A.</label> 
+               <hi>In new obedience, which is to carry in my heart a conſtant purpoſe never to ſinne any more but to endeavour to do the will of God, and that within the compaſſe of my calling,</hi>
+            </p>
+            <div type="exposition_on_the_catechism">
+               <head>An Expoſition on Mr. Perkins his Thirteen Principles.</head>
+               <p>THe high calling that every child of <hi>GOD</hi> is called unto, is not this temporall calling which God hath placed us in, but out Election ſtandeth in obedience to know Gods will, and to know what we are by nature, the children of wrath and fire-brands of hell, if we labour not to know God, and to be aſſured that Chriſt hath redeemed us from the ſecond death, and that the
+<pb n="4" facs="tcp:119583:4"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ates of <hi>Hell</hi> ſhould not preaile againſt us; therefore our true happineſſe is, to labour while we have time, to know our duty to God and man, and to labour to know, that of our ſelves we are loſt in <hi>Adams</hi>tranſgreſſion, and that Chriſt hath made us frée citizens by his death and reſurection. For man by nature in himſelfe. out of Chriſt, is the unhappieſt of all creatures that God made: therefore in theſe ſad and perilous times, we muſt fit our ſelues for a better life, and whilſt it is to day, har<g ref="char:EOLhyphen"/>den not your hearts, but redeem your mis ſpent time, for the dayes are evill: <hi>Broad is the way that leadeth to deſtruction, and many there be that find it; but narrow is the way that leadeth to everlaſting life, and few there be that finde that ſtrait gate.</hi>
+               </p>
+               <p>Therefore to labour to know Chriſt crucified that you may be ſealed for the day of redemp<g ref="char:EOLhyphen"/>tion:</p>
+               <p>Firſt, faſt not as <hi>Adam</hi> faſted in eating the forbidden fruite, for which he loſt Paradice, for in this world Paradice is wonne or loſt? Mans life is ſhort, and fraile, in compariſon but a ſpan long, therefore Chriſt bids us come buy milke without mony or price, Gods Word is ſwéeter then the honey or the honey combe: therefore let us taſte the benefit that we have
+<pb n="5" facs="tcp:119583:4"/>
+by Chriſt and let us reliſh that by belief, <hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaack, Jacob,</hi> and all the Patriarkes, were juſtified: It wet not <hi>Arons</hi> beard alone, but drencht his beard throughout, and finally it did rain downe his rich attyre. How precious it is and joyfull for to ſée Brethren to hold together in the love of Chriſt, in the bouds of Unitie: and he that created us for this thing is God, who hath given us the earneſt of his Spirit, For he died for all, that they which live ſhould not henceforth, live unto themſelves, but unto him: which died for us and roſe againe.</p>
+               <p>Therefore all they that deſire to be in Chriſt, let them deny themſelves, and hunger and thirſt after Him and His righteouſneſſe aboue all the things in the world: For old things are paſt away, behold all things are become new, <hi>Now is the axe laid to the root of the Tree, eve<g ref="char:EOLhyphen"/>ry tree that bringeth not forth fruit, ſhall be hewen downe and caſt into the fire.</hi> Therefore let us deny our owne righteouſneſſe, and cry out with Saint <hi>Paul; O wretched man that I am, who ſhall deliver me from this body of death;</hi>
+               </p>
+               <p>Therefore theſe thirteen Principles holds forth our happineſſe to know what the eſſence of God is, in creating the world.</p>
+               <p>Secondly, to know what we are by <hi>Adams</hi> diſobedience in eating of the forbidden fruit
+<pb n="6" facs="tcp:119583:5"/>
+the which all Mankind ſtandeth guilty of (which is our originall ſinne which wee brought into this world) till we are grafted and baptiſed into Chriſts Flocke and made lively Members of the ſame.</p>
+               <p>Thirdly, the mercies of God in Chriſt, that the ſeed of the woman ſhould bruiſe the ſerpents head, and pierce his héel.</p>
+               <p>All that by the eye of Faith lay hold upon this promiſe, are juſtified, and in fulneſſe of time <hi>God</hi> ſent his only begotten Son born of the Uirgin, which was conceived by the Holy Ghoſt; of whoſe Life, Death and Reſurrection, his twelve Apo<g ref="char:EOLhyphen"/>ſtles are witneſſes: And to confirme his Death and Reſurrection the night before he was betray<g ref="char:EOLhyphen"/>ed (inſtituted at the eating of his Paſſeover) the Sacrament as a pledge.</p>
+               <p>Firſt in the breaking of Bread, which ſets forth the breaking of his Body.</p>
+               <p>Secondly he took the cup, drink ye all of this in remembrance that my body was broken, and my blo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d for you, and for many, for the remiſſion of ſins.</p>
+               <p>Chriſts ſufferings upon the croſſe is our glo<g ref="char:EOLhyphen"/>rification, which frees us from the ſecond death: Therefore while wee have time, let us have re<g ref="char:EOLhyphen"/>courſe to <hi>God</hi> in his Ordinances, for the righte<g ref="char:EOLhyphen"/>ous man ſinned ſeven times in a day: nay, ſe<g ref="char:EOLhyphen"/>venty
+<pb facs="tcp:119583:5"/>
+times in a day. Therefore, how much néed have we to renew our covenant with <hi>God,</hi> and to forſake our ſins and to loath them, and conditi<g ref="char:EOLhyphen"/>on with <hi>God</hi> to become new creatures, that the guilt of ſinne may be taken away.</p>
+               <p>For Chriſt preſt upon man, ſo oft as you take this ſacrament by beliefe you are healed, and re<g ref="char:EOLhyphen"/>new your covenant with <hi>GOD,</hi> to become new creatures.</p>
+               <p>Let us take héed that we put not off this pre<g ref="char:EOLhyphen"/>tious time leſt we be numbred with the Fooliſh Uirgins th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t while they went to buy Oyle, the wiſe Uirgins entred into the wedding chamber with the Bridegroome: ſo many put off this du<g ref="char:EOLhyphen"/>ty, excuſing themſelves that they are not fitted; that is the Divels policy: Firſt, labour to try your ſelves what you are by nature, then the be<g ref="char:EOLhyphen"/>nefit you haue by Chriſt; He bids us, <hi>To day if you will hear my voyce, harden not your hearts,</hi> to morrow is not ours again: <hi>Chriſt ſaith, Come unto me, all that are weary and heavy laden, and I will eaſe you.</hi>
+               </p>
+               <p>Therefore, wee ought to crave a bleſsing of <hi>GOD</hi> by prayer, on all dur endeavours, whe<g ref="char:EOLhyphen"/>ther in our callings, or in our walking abroad, or what ever we take in hand, we ought alwayes to pray to <hi>GOD</hi> for his bleſſing, and to deſire his Kingdome to come, and his will to bee done.
+<pb n="8" facs="tcp:119583:6"/>
+For God requires nothing of us but thankfull<g ref="char:EOLhyphen"/>neſſe, and obedience to walke with him, with a purpoſe of knowledge of life: Therefore let us beſeech the Lord, in mercy to open our blinde underſtanding, and to guide us in the right way, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the commandements, the Articles of our Beliefe, and the Lords Prayer, may be a ſavour of life unto life, and not a ſavour of death unto death.</p>
+               <p>Therefore let us remember our creatour in the dayes of our youth <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> adverſitie, before the evill dayes come or the yea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es approach, when we ſhall have no joy in them, and to caſt off our ſinnes by repentance. For the Lord hath pro<g ref="char:EOLhyphen"/>miſed, he will not leave us nor forſake us hough we ſuffer for a ſeaſon.</p>
+            </div>
+            <div type="safeguards_against_temptation">
+               <pb facs="tcp:119583:6"/>
+               <head>Conſiderations exciting to watchfullneſſe againſt Temptations and motions to ſinne,</head>
+               <p n="1">1 COnſider the g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orious and dreadfull, Majeſty o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that God with whome thou haſt to doe he is a con<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uming fire, his commandments are to be obeyed, his threatnings to be feared, his ſervice not to be ſlighted, but to be performed with watchfullneſſe and feare, &amp;c.</p>
+               <p n="2">2 Conſider thy ſins, that in number exceed the hairs of thy head, in weight and meaſure the ſand of the ſea, the vileneſſe of ſin, the unthankfullneſſe of thy ſin in reſpect of that good God who hath done more for thee then for others.</p>
+               <p n="3">3 Weigh the fearefull curſes and puniſhments threatned againſt ſin, and miſery of this life, eter<g ref="char:EOLhyphen"/>nall <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntolerable torments hereafter.</p>
+               <p n="4">4 Nothing melts the heart like love, ponder therefore the infinite love of God, and the rich grace of Chriſt taking thy ſin upon himſelfe, and bearing the wrath of his Father, which was due to thee.</p>
+               <p n="5">5 Awaken thy ſoule with meditation of the ſmall number of thoſe that ſhall be ſaved, the mul<g ref="char:EOLhyphen"/>titude of thoſe that ſhall periſh, the certainty of their damnation who careleſly deſpiſe, or willful<g ref="char:EOLhyphen"/>ly abuſe the grace of Jeſus Chriſt to carnall ſecu<g ref="char:EOLhyphen"/>rity,
+<pb n="10" facs="tcp:119583:7"/>
+orwilful continuence in known ſinne.</p>
+               <p n="6">6 Never call to mind the Divels unwearied ma<g ref="char:EOLhyphen"/>lice, violence, and ſubtilty, how he goes up and down like a roaring Lyon, ſeeking whom he may devour, to whom it is eaſie to become a prey.</p>
+               <p n="7">7 Know the deſperate corruption that is in thy heart ready to betray thee to the baſeſt luſt, and moſt abhominable wickedneſſe.</p>
+               <p n="8">8 What terrours of conſcience what ſharp and ſtinging ſcourges of outward croſſes, ſickneſſe, pains, poverty, may God inflict to rouſe thee out of thy ſpiritual ſlumber, if other means avail not.</p>
+               <p n="9">9 How unworthily haſt thou rejected the com<g ref="char:EOLhyphen"/>mandment of God, whoſe mercie have been and are ſo abundant and free towards thee, with pro<g ref="char:EOLhyphen"/>miſe of more and larger mercies then for the pre<g ref="char:EOLhyphen"/>ſent thou enjoyeſt.</p>
+               <p n="10">10 What ſnares and temptations thou art every day expoſed to, by occaſions miniſtred from the fleſh within from the world without ſometimes from the godly as well as from the wicked.</p>
+               <p n="11">11 Conſider thy latter end the ſhortnes of life, how it is ſubject to a thouſand calamities, &amp; no<g ref="char:EOLhyphen"/>thing to be done for God or thy ſoul, after death.</p>
+               <p n="12">12 Meditate on the nobleneſſe and excelency of thine immortal ſoul it is born to a higher imploy<g ref="char:EOLhyphen"/>ment then the ſervice of a baſe luſt, or of the va<g ref="char:EOLhyphen"/>niſhing world, that is not fit to put pibbles in a golden ca<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ket.</p>
+               <p n="13">
+                  <pb n="11" facs="tcp:119583:7"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3 Often revolve in thy mind the infinite glo<g ref="char:EOLhyphen"/>ry of heaven &amp; that eternal happineſſe there kept in flore for them that fight the good fight of faith and finiſh their courſe and keep the faith, &amp; look for the appearing of Jeſus Chriſt.</p>
+               <p n="14">14 Be every day drawing ſome ſweetneſſe from the precious promiſes of all ſorts for comforts of this life to them that love God, and forſake any thing for Chriſt, that all things ſhall work toge<g ref="char:EOLhyphen"/>ther for good to them, no good thing ſhal be with<g ref="char:EOLhyphen"/>holden from them, and for any thing thou haſt forſaken, thou ſhalt receive them in this world in the midſt of perſecutions, an hundred fold more, and eternal life in the world to come.</p>
+               <p n="15">15 Behold the experience of the ſweet peace of conſcience, and bleſſed contentation, and ſpiritual rejoycing in the midſt of tribulations and perſe<g ref="char:EOLhyphen"/>cutions that is found in many of the ſervants of God and withall proſeſſe to be certainly attaina<g ref="char:EOLhyphen"/>ble by thoſe that watch and pray and are ſober, &amp; exerciſe that faith and grace which the Lord hath imparted to them.</p>
+            </div>
+            <div type="Christian_duties">
+               <pb n="12" facs="tcp:119583:8"/>
+               <head>Chriſtian directions concerning duties in evell times.</head>
+               <p n="1">1 BE diligent to examine thy ſelfe whether thou art in the ſtate of grace, or no, when we are like to be tried, it is wiſdome to doe it be<g ref="char:EOLhyphen"/>fore hand.</p>
+               <p n="2">2 Strive with God to get thine heart weaned from the love of this pre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent world; a thing which is but hanged on a pin, is <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oon heaved off; things glued together are hardly ſundred, exceſſive love to the world makes the Croſſe ten times heavier.</p>
+               <p n="3">3 Be much with God in holy duties: when <hi>Iu<g ref="char:EOLhyphen"/>das</hi> plotted againſt our Saviour, he prepared for the Paſſeover, and laſt Supper: let us be moved with reverence to uſe the meanes to haue our ſelves and our families ſay to God, Thou art my hiding place, enter into thy cloſet, ſhut the doore to thee, hide thy ſelfe with God, untill the indig<g ref="char:EOLhyphen"/>nation be over-paſſed.</p>
+               <p n="4">4 Pray earneſtly that thou mayſt enjoy the fa<g ref="char:EOLhyphen"/>vour of God, which is better then life. It is in<g ref="char:EOLhyphen"/>tollerable to feare the wrath of God, and to bee deprived of all comfort of the creature at once.</p>
+               <p n="5">5 Exerciſe thy ſelfe to keepe a clear conſcience towards God and man, that if croſſes and trou<g ref="char:EOLhyphen"/>bles come to moleſt the outward man, yet thou mayeſt have ſweet peace within.</p>
+               <p n="6">6 Acquaint thy felſe with the pretious pro<g ref="char:EOLhyphen"/>miſes: they will bee as ſtrong water to keepe
+<pb n="31" facs="tcp:119583:8"/>
+the from ſainting in the day of triall.</p>
+               <p n="7">7 Get into thy heart the experimentall know ledge and love of the truth: you can never ſuffer for that you know not, much leſſe for that you love not.</p>
+               <p n="8">8 In evill times be forward to comfort and encourage others: for God hath a book of re<g ref="char:EOLhyphen"/>membrance to write their names in, Mal. 3. 16. who often meet to commune together of the wayes of God.</p>
+               <p n="9">9 Set before your eyes the joyes of heaven, as Jeſus Chriſt did, and <hi>Moſes,</hi> and <hi>Paul,</hi> 2 Cor. 4. 17. and all the Martyrs, who for the name of Chriſt ſuffered tormenting deaths; our momen<g ref="char:EOLhyphen"/>tany ſufferings ſhall be recompenced with eter<g ref="char:EOLhyphen"/>nall refreſhings.</p>
+               <p n="10">10 Spare not one ſinne unmortified: for the love of any one ſinne will work us more woe then all our enemies, and raiſe doubts and feares in us when others ſhall have comfort.</p>
+               <p n="11">11 Caſt away all confidence in thy ſelfe, truſt not to any righteouſneſſe or work of thine owne; in his owne ſtrength ſhall no man prevaile: boaſt not thy ſelfe of any thing in thee, but bee ſtrong in the Lord, and in the power of his might, Eph. 6. 10.</p>
+               <p n="12">12 Take heed unto thy words, <hi>The prudent ſhall keepe ſilence in evill times:</hi> It is their wiſdome
+<pb facs="tcp:119583:9"/>
+to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> now before whom and w<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> that er<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hey ſpeake.</p>
+               <p n="13">13 Exerciſe your ſelfe in works of mercy, <hi>Caſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thy bread upon the face of the waters,</hi> though it ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m to be loſt for the preſent, yet afterward thou ſhalt find it, Again, <hi>Give a portion to ſeven, and al<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o to eight, becauſe thou knoweſt not what dayes <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ome,</hi> take the preſent ſeaſon to doe good in, the mercifull have the promiſe of mercy.</p>
+               <p n="14">14 Prepare for a Judgment before it come, forewarned by Gods faithfull watchmen, fore<g ref="char:EOLhyphen"/>armed; meditate upon the miſeries which have befaln our neighbour nations, the Sword, famine, peſtilence devouring thouſands, and what do we know how God will deal with us.</p>
+               <p>Thoſe who ſlight God and Religion in proſpe<g ref="char:EOLhyphen"/>rity, take up religion for credit, and will not en<g ref="char:EOLhyphen"/>dure ſmall trials, they will not ſuffer the power of Religion to come into their hearts, nor will for religion and the truth, lay down their lives.</p>
+            </div>
+            <trailer>FINIS,</trailer>
+            <pb facs="tcp:119583:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
